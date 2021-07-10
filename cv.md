@@ -57,7 +57,7 @@
         <p>Completed secondary education as an electronics technician. 
             Incomplete higher education as a software engineer. Now I work as a system administrator </p>
    
-        <h3>/ English</h3>
+        <h3>/ English </h3>
       <p>  Different tests give me a rating A2/B1 = Pre-Intermediate. I am continuing my studies now. </p>
         
     <footer>
