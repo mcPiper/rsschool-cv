@@ -34,7 +34,7 @@
             Html, <br>
             Css, <br>
             JavaScript, <br>
-            Python basics. <br><br>
+            Python basics. <br> <br>
         
           <em> Working with frameworks: <br></em>
             React, <br>
