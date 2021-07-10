@@ -61,7 +61,7 @@
       <p>  Different tests give me a rating A2/B1 = Pre-Intermediate. I am continuing my studies now. </p>
         
     <footer>
-        <a href="https://github.com/mcPiper">My Github</a>&nbsp;  &nbsp;2021 &nbsp;  &nbsp;<a href="https://rs.school/js/"></a>
+        <a href="https://github.com/mcPiper">My Github</a>&nbsp;  &nbsp; 2021 &nbsp;  &nbsp;<a href="https://rs.school/js/"></a>
     </footer>
 
 </body>
