@@ -1,0 +1,92 @@
+h1 {
+ 
+    font-family: 'Bebas Neue', cursive;
+    font-size: 42px;
+    left: 35px;
+    margin-left: 22%;
+    text-align: center;
+  
+}
+h2{
+    font-family: 'Amiko', sans-serif;
+font-size: 14px;
+margin-left: 22%;
+margin-top: -5%;
+text-align: center;
+
+
+
+}
+h3{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12.5px;
+    margin-top: 5%;
+}
+.leftspace {
+    position: absolute;
+    top: 15%;
+    right: 53%;
+    left: 20%;
+
+
+}
+.rightspace {
+    position: absolute;
+    
+    left: 53%;
+    right: 20%;
+top: 20%;
+
+
+}
+p,li {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 12px;
+}
+.avatar {
+    
+    margin-left: 32%;
+    width: 60%;
+    height: 60%;
+}
+.vl {
+    border-left: 4px solid rgb(49, 51, 49);
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+    opacity: 20%;  
+}
+.rscope {
+    width: 50px;
+    height: 25px;
+}
+/*
+.footerblock {
+    display: flex;
+   
+    list-style-type: none;
+}
+*/
+
+.footernew{
+    
+  position: absolute;
+  
+  left: 28%;
+  top: 109%;
+  
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 12px;
+ 
+   
+}
+
+
+@media (max-width: 600px) { /* удаляет разделительную черту на разрешении меньше 600px */
+    .vl {
+      display: none;
+    }
+  }
